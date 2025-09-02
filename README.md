@@ -1,4 +1,4 @@
-# Hi, I'm Yeonwoo Kim  
+## Hi, I'm Yeonwoo Kim  
 
 > 🖥 Backend Developer (Django/DRF) | 🎓 Ewha Womans Univ. CS '23 | ☁️ Exploring Cloud & AI  
 
