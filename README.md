@@ -9,7 +9,6 @@
 ## 🧑‍💻 About Me
 - 🎓 **이화여자대학교 컴퓨터공학과 23학번**  
 - 🛠 Django & DRF 기반의 **백엔드 서비스** 개발 경험  
-- 🤝 **SunbrightCreators** Organization Backend 프로젝트 기여  
 - 🌱 클라우드, 블록체인, AI를 백엔드와 접목하는 것에 관심  
 
 ---
