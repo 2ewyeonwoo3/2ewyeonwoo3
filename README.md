@@ -39,8 +39,24 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2ewyeonwoo3&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=2ewyeonwoo3&theme=dracula&hide_border=true&bg_color=0d1117&color=79dafa&line=fc5c7d&point=f5f5f5&area=true&area_color=6A82FB"
+    alt="activity graph"
+  />
 </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=2ewyeonwoo3&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=2ewyeonwoo3&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 ---
 
