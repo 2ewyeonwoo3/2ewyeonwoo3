@@ -39,8 +39,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2ewyeonwoo3&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
   ![Yeonwoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2ewyeonwoo3&theme=react-dark&hide_border=true)
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=2ewyeonwoo3&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ewyeonwoo3&layout=compact&theme=radical" height="150"/>
 </p>
