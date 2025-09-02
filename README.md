@@ -35,9 +35,6 @@
 - 📝 **[13th-Session-Back](https://github.com/2ewyeonwoo3/13th-Session-Back)**  
   Django 백엔드 기본 세션 학습 코드  
 
-- ✅ **[ewha-todo](https://github.com/2ewyeonwoo3/ewha-todo)**  
-  간단한 Todo 앱 (CRUD + Authentication)  
-
 ---
 
 ## 📊 GitHub Stats
