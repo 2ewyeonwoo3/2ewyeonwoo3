@@ -39,8 +39,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2ewyeonwoo3&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ewyeonwoo3&layout=compact&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=2ewyeonwoo3&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 ---
