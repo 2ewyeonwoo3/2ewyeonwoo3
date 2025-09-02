@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Welcome!toYeonwoo'sprofile%20Kim&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Welcome!%20&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Yeonwoo Kim  
 
