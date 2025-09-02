@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Yeonwoo%20Kim&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Welcome! to Yeonwoo's profile%20Kim&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Yeonwoo Kim  
 
@@ -26,46 +26,5 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
-- 🌟 **[SunbrightCreators/Backend](https://github.com/SunbrightCreators/Backend)**  
-  Django 멀티 앱 구조(`accounts`, `fundings`, `pays`, `maps`, `notifications`)  
-  → 모듈화된 서비스 설계와 협업 경험 중심  
-
-- 📝 **[13th-Session-Back](https://github.com/2ewyeonwoo3/13th-Session-Back)**  
-  Django 백엔드 기본 세션 학습 코드  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=2ewyeonwoo3&theme=dracula&hide_border=true&bg_color=0d1117&color=79dafa&line=fc5c7d&point=f5f5f5&area=true&area_color=6A82FB"
-    alt="activity graph"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=2ewyeonwoo3&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=2ewyeonwoo3&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
----
-
-## 🤝 Let’s Connect
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/2ewyeonwoo3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FC5C7D,100:6A82FB&height=120&section=footer)
 
