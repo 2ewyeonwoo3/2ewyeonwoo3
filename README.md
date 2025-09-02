@@ -1,16 +1,58 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Yeonwoo%20Kim&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-<!--
-**2ewyeonwoo3/2ewyeonwoo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yeonwoo Kim  
 
-Here are some ideas to get you started:
+> 🖥 Backend Developer (Django/DRF) | 🎓 Ewha Womans Univ. CS '23 | ☁️ Exploring Cloud & AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🎓 **이화여자대학교 컴퓨터공학과 23학번**  
+- 🛠 Django & DRF 기반의 **백엔드 서비스** 개발 경험  
+- 🤝 **SunbrightCreators** Organization Backend 프로젝트 기여  
+- 🌱 클라우드, 블록체인, AI를 백엔드와 접목하는 것에 관심  
+
+---
+
+## 🔥 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🌟 **[SunbrightCreators/Backend](https://github.com/SunbrightCreators/Backend)**  
+  Django 멀티 앱 구조(`accounts`, `fundings`, `pays`, `maps`, `notifications`)  
+  → 모듈화된 서비스 설계와 협업 경험 중심  
+
+- 📝 **[13th-Session-Back](https://github.com/2ewyeonwoo3/13th-Session-Back)**  
+  Django 백엔드 기본 세션 학습 코드  
+
+- ✅ **[ewha-todo](https://github.com/2ewyeonwoo3/ewha-todo)**  
+  간단한 Todo 앱 (CRUD + Authentication)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2ewyeonwoo3&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ewyeonwoo3&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/2ewyeonwoo3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FC5C7D,100:6A82FB&height=120&section=footer)
+
