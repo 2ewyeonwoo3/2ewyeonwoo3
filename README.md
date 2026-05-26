@@ -1,15 +1,3 @@
-## Hi, I'm Yeonwoo Kim  
-
-> 🖥 Backend Developer (Django/DRF) | 🎓 Ewha Womans Univ. CS '23 | ☁️ Exploring Cloud & AI  
-
----
-
-## 🧑‍💻 About Me
-- 🎓 **이화여자대학교 엘텍공과대학 컴퓨터공학과 23학번**
-- 🦁 **이화여자대학교 멋쟁이사자처럼 13기 (25.03 ~ 26.01)**
-
----
-
 ## 🔥 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
