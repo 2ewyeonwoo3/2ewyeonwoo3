@@ -99,12 +99,3 @@ focus:       [ML Systems, Cloud Infrastructure, Backend]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2ewyeonwoo3&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
 </div>
-
----
-
-## Contact
-
-<div align="center">
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
