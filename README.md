@@ -1,12 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yeonwoo%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20Data%20Pipeline%20%C2%B7%20Cloud%20Infra&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Simulation+%E2%86%92+Streaming+%E2%86%92+ML+%E2%86%92+Deploy;Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Spark;AWS+%7C+Docker+%7C+GitHub+Actions;Real-time+Systems+%7C+Scheduling" alt="Typing SVG" />
-</a>
-
 <p>
   <img src="https://img.shields.io/badge/Ewha_Womans_University-Computer_Science-00462A?style=flat-square"/>
   <img src="https://img.shields.io/badge/Exchange-Universit%C3%A4t_Augsburg_(WS_26%2F27)-1f6feb?style=flat-square"/>
@@ -113,11 +107,6 @@ focus:       [ML Systems, Cloud Infrastructure, Backend]
 ## Contact
 
 <div align="center">
-
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://YOUR_BLOG"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
